@@ -1,0 +1,63 @@
+.container{
+    background-color: #c3d035;
+    padding-top: 55px;
+    padding-bottom: 100px;
+    padding-right: 50px;
+    padding-left: 71px;
+    margin-top: 2%;
+    margin-bottom: 9%;
+    margin-right: 50%;
+    margin-left:100% ;
+    height: 28px;
+    width: 380px;
+    justify-content: center space-evenly;
+}
+
+h1{
+    height: 8px;
+    margin-top: 1px;
+    margin-left: 35%;
+    margin-right: 50%;
+    font-family: 'Times New Roman', serif;
+    font-size: 80%;
+    font-weight:100 px;
+    justify-content: center;
+}
+
+hr{
+    border: 10px solid rgba(182, 34, 34, 0);
+    margin-bottom: 3px;
+    width: 100px;;
+}
+
+.userProfile{
+    border-radius:1%;
+    background-color: #d035c6;
+    align-items: cent;
+}
+
+h3{
+    height: 8px;
+    margin-right: 100px;
+    margin-left: 35%;
+    margin-right: 50%;
+    font-size: 80%;
+    font-weight:100 px;
+    justify-content: center;
+}
+
+.waterdem{
+    background-color: #d035d0;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-right: 300%;
+    margin-left: -200%;
+    width: 280px;
+    justify-content: center space-evenly;
+}
+
+.Waffle{
+    width:100px;
+    background-color:  #d035d0;
+    justify-content: center space-evenly;
+}
